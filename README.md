@@ -62,9 +62,6 @@ Fear the Year of the Pig.
 
 <a href="https://app.hackthebox.com/profile/1598640"><img src="https://www.hackthebox.com/badge/image/1598640" alt="Hack The Box"> </a>
 
-<h2>🚩 TryHackMe Profile 🚩</h2> 
-
-<a href="https://tryhackme.com/p/pigs4w"><img src="https://tryhackme-badges.s3.amazonaws.com/pigs4w.png" alt="TryHackMe"> </a>
 
 <h2>💾 Github Stats:</h2>
 
@@ -79,15 +76,7 @@ Fear the Year of the Pig.
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axlfranklin&theme=github_dark"/></td></tr>
   </table>
 </a>
-<h2>
-🤳 Contacts:
-<br />
-</h2>
-   <a  href="https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <br />
-  <a  href="https://www.linkedin.com/in/axlfranklin/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <br />
- <a  href="https://www.instagram.com/axlwasdead/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 <br />
  <a  href="https://discordapp.com/users/302164024936890370">
  <img align="left" alt="Instagram" title="Discord"

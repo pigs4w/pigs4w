@@ -76,12 +76,3 @@ Fear the Year of the Pig.
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axlfranklin&theme=github_dark"/></td></tr>
   </table>
 </a>
-
-<br />
- <a  href="https://discordapp.com/users/302164024936890370">
- <img align="left" alt="Instagram" title="Discord"
- src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/><a/>
-   
-
-
-

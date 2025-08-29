@@ -16,8 +16,8 @@
 =================================================
 GNU nano 7.2                    axl_profile.txt
 
-Hello Welcome to my Github! My name is Axel
-I'm a Ethical Hacker with 5 yers of experience,
+Hello Welcome to my Github! My name is Axl
+I'm a Ethical Hacker with 5 years of experience,
 also an exploit development lover.
 Fear the Year of the Pig.
 =================================================

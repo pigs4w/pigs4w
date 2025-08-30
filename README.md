@@ -14,7 +14,7 @@
 └─# nano pigs4w_profile.txt
 
 =================================================
-GNU nano 7.2                    axl_profile.txt
+GNU nano 7.2                    pigs4w_profile.txt
 
 Hello Welcome to my Github! My name is Axl
 I'm a Ethical Hacker with 5 years of experience,
